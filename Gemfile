@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.5'
 gem 'bootstrap-sass'
 gem 'bcrypt-ruby'
+gem 'heroku'
 gem 'pusher'
-require 'pusher'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
