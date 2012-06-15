@@ -1,9 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.5'
-gem 'bootstrap-sass'
-gem 'bcrypt-ruby'
-gem 'heroku'
 gem 'pusher'
 
 # Bundle edge Rails instead:
